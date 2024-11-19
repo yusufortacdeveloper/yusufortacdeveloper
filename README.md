@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, Ben Yusuf Ortaç! 👋</h1>  
-<h3 align="center">🎮 Unity Game Developer | Oyun Mekaniği Uzmanı</h3>  
+<h3 align="center">🎮 Game Developer | Unity Uzmanı | Oyun Geliştirme Eğitmeni</h3>  
 
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=yusufortac&label=Profil%20Görüntüleme%20Sayısı&color=0e75b6&style=flat" alt="profil görüntüleme sayısı" />  
@@ -8,53 +8,72 @@
 ---
 
 ## 🌟 Hakkımda  
-Merhaba! Ben Yusuf, Unity ile oyun geliştirme konusunda uzmanlaşmış bir geliştiriciyim. Simülasyon, hyper-casual ve bulmaca türlerinde projeler üzerinde çalıştım ve oyun dünyasına yenilikçi fikirler kazandırmayı hedefliyorum. Teknik becerilerimi sürekli geliştirirken, LinkedIn'de [7.000+ takipçi](https://www.linkedin.com/in/yusufortac/) ile oyun geliştirme üzerine bilgiler paylaşıyorum.  
+Merhaba! 2018 yılından beri oyun geliştirme alanında profesyonel bir kariyer sürdürüyorum. Dünya çapında iz bırakan projelere katkı sağladım ve hem bireysel hem de ekip çalışmalarıyla çeşitli oyun türlerinde uzmanlaştım. Şu anda Unity ile simülasyon, hyper-casual ve mobil oyunlar geliştiriyorum. Ayrıca, 140'tan fazla öğrenciye oyun geliştirme eğitimi verdim.  
 
-### 🚀 İlgi Alanlarım:  
-- **Oyun Mekaniği Tasarımı**  
+### 🚀 İlgi Alanlarım  
+- **Oyun Mekaniği Tasarımı ve Uygulaması**  
 - **Performans Optimizasyonu**  
-- **Unity Addressables ile Asset Yönetimi**  
-- **AI Tabanlı Oyun Sistemleri**  
-- **Hyper-Casual ve Simülasyon Türü Oyunlar**  
+- **Unity Addressables ve Dosya Yönetimi**  
+- **Yapay Zeka Tabanlı Sistemler**  
+- **Simülasyon ve Hyper-Casual Türü Oyunlar**  
 
 ---
 
-## 💼 Profesyonel Deneyim ve Projeler  
+## 💼 Profesyonel Deneyim  
 
-### 🎲 **Car For Sale Simulator**  
-🏎️ Araç alım-satım simülasyonu odaklı bir oyun.  
-- **Öne Çıkan Çalışmalar:**  
-  - Performans optimizasyonu  
-  - Kullanıcı arayüzü tasarımı ve oyun mekaniği geliştirme  
-  - Adreslenebilir varlıklarla kaynak yönetimi  
+### 🎮 **MASOMO (Mayıs 2024 - Kasım 2024)**  
+- **Görev:** Game Developer  
+- **Proje:** Head Ball 2  
 
-### 🎰 **Casino Simulator**  
-🎰 Casino oyunlarını deneyimlemek için tasarlanmış bir simülasyon oyunu.  
-- **Öne Çıkan Çalışmalar:**  
-  - Ekonomi sistemlerinin geliştirilmesi  
-  - AI destekli rakip davranışları  
-  - Özel efektler ve animasyonlarla görsel zenginlik  
+### 🎮 **Red Axe Games (Mayıs 2023 - Aralık 2024)**  
+- **Görev:** Game Developer  
+- **Projeler:**  
+  - **Car For Sale Simulator 2023**  
+    - Lüks sistem geliştirme, mekanik sorun giderme ve kredi sisteminin baştan tasarımı.  
+    - Trafik ve yaya sistemi geliştirme.  
+  - **Casino Simulator 2024**  
+    - Açık artırma sistemi ve satıcı-alıcı sistemlerinin geliştirilmesi.  
+    - Optimizasyon ve hata düzeltmeleri.  
 
-### 📱 **Hyper-Casual Mini Prototipler**  
-- Mobil platformlara yönelik hızlı geliştirme süreçlerinde çeşitli oyunlar geliştirdim.  
-- Geliştirdiğim prototiplerden biri yayınlandı ve **100.000+ indirme** aldı.  
+### 👨‍🏫 **T3 BAYRAKTAR (Mayıs 2023 - Aralık 2024)**  
+- **Görev:** Game Developer Eğitmeni  
+- **Başarılar:** 140'tan fazla öğrenciye oyun programlama eğitimi verdim.  
 
-### 🌌 **Kendi Kişisel Projelerim**  
-- **FPS Oyun Prototipi:** Gerçekçi silah fiziği ve kullanıcı dostu bir arayüz ile birinci şahıs nişancı oyunu.  
-- **Puzzle Platformer:** Fizik tabanlı bulmacalarla dikkat çeken bir platform oyunu.  
+---
+
+## 📚 Eğitim  
+**İskenderun Teknik Üniversitesi**  
+- **Bölüm:** Bilgisayar Mühendisliği  
+- **Yıllar:** 2021 - 2024  
+
+---
+
+## 🚀 Öne Çıkan Projeler  
+
+### 🎲 [Car For Sale Simulator 2023](https://store.steampowered.com/app/2248760/Car_For_Sale_Simulator_2023/)  
+- Steam platformunda yayınlanan, araç alım-satım simülasyonu odaklı bir oyun.  
+
+### 🎰 [Casino Simulator 2024](https://store.steampowered.com/app/2836450/Casino_Simulator_2024/)  
+- Casino oyunlarının simüle edildiği, detaylı ekonomi sistemlerine sahip bir oyun.  
+
+### ⚽ [Head Ball 2](https://play.google.com/store/search?q=head+ball&c=apps&hl=en_US)  
+- Rekabetçi bir futbol simülasyonu.  
+
+### 🌍 [Gameland Zooka](https://play.google.com/store/apps/details?id=com.reylorgames.GamelandZooka&hl=en_US)  
+- Google Play Store’da yayınlanan aksiyon dolu bir mobil oyun.  
 
 ---
 
 ## 🛠️ Kullandığım Araçlar ve Teknolojiler  
 
-### **Programlama Dilleri ve Motorlar**  
+### **Programlama ve Oyun Motorları**  
 <p align="left">  
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" alt="unity" width="40" height="40"/> </a>  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" alt="csharp" width="40" height="40"/> </a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" alt="git" width="40" height="40"/> </a>  
 </p>  
 
-### **Tasarım ve Araçlar**  
+### **Tasarım ve Yardımcı Araçlar**  
 <p align="left">  
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blender.svg" alt="blender" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/> </a>  
@@ -70,17 +89,8 @@ Merhaba! Ben Yusuf, Unity ile oyun geliştirme konusunda uzmanlaşmış bir geli
 
 ---
 
-## 🎯 Gelecekteki Hedeflerim  
-- **Multiplayer** projelerde çalışarak oyun geliştirme deneyimimi ileri taşımak  
-- Kendi **indie oyun stüdyomu** kurarak yenilikçi projeler geliştirmek  
-- Daha fazla oyun severin ilgisini çekecek **ilham verici oyun mekanikleri** tasarlamak  
-
----
-
 ## 📫 Bana Ulaşın  
-<p align="left">  
-<a href="https://linkedin.com/in/yusufortac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>  
-</p>  
-
-- **E-posta:** yusufortac@example.com  
-- **Portfolio:** [yusufortac.github.io](https://yusufortac.github.io)  
+- **E-posta:** [yusufortac.businnes@gmail.com](mailto:yusufortac.businnes@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/yusuf-ortaç-62a045235](https://www.linkedin.com/in/yusuf-orta%C3%A7-62a045235/)  
+- **GitHub:** [github.com/yusufortacdeveloper](https://github.com/yusufortacdeveloper)  
+- **YouTube:** [@cokomonkegaming](https://www.youtube.com/@cokomonkegaming)  
